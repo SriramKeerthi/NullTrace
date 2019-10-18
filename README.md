@@ -1,7 +1,7 @@
 # NullTrace
 Null HTrace replacement for HBase Client
 
-Have you used the HBase Shaded Client? Have you come across the HTrace dependency that's from 2014 and shaded incorrectly? Do you not care about having HTrace in your dependencies?
+Have you used the HBase Shaded Client? Have you come across the HTrace dependency that's from 2014 and shaded incorrectly? Do you not care about having HTrace in your dependencies? Do you want to get rid of HTrace from HBase?
 
 You've come to the right place! Right now, for a low low price of free, I bring you NullTrace, a drop-in replacement for the HTrace library that works* with the HBase Shaded Client v2.2.1 and gets rid of the dependency on HTrace.
 
